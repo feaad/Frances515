@@ -10,6 +10,6 @@ I am **Frances!** I am constantly 🎨 designing aesthetically pleasing applicat
 - 💼 Want to see some design projects? 👀 https://feaad.myportfolio.com
 - 💬 Fun Fact: Ich spreche ein bisschen Deutsch
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frances515&theme=prussian)](https://github.com/frances515)--->
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frances515&theme=prussian)](https://github.com/feaad)--->
 
 

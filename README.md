@@ -1,5 +1,5 @@
 
-<img align="right" alt="Frances' github stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feaad&theme=prussian">
+<img align="right" alt="Frances' github stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feaad&theme=prussian&count_private=true&langs_count=6&hide=HTML,CSS,SCSS">
 
 ### Hi there 👋
 
